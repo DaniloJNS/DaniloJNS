@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Engenharia da Computação** nA <a href="https://www.ufs.br/">UFS</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
 - 🌱 &nbsp; Aprendendo mais sobre **.NET CORE**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
