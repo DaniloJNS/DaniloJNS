@@ -3,7 +3,7 @@
 <h3> Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Engenharia da Computação** nA <a href="https://www.ufs.br/">UFS</a>.
+- 🎓 &nbsp; Estudando **Engenharia da Computação** na <a href="https://www.ufs.br/">UFS</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **.NET CORE**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
