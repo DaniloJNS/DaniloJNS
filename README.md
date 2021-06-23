@@ -42,6 +42,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Danilo Nascimento](https://img.shields.io/badge/-Danilo Nascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/danilo-jos%C3%A9-nascimento-da-silva-059744139)
+[![Danilo Nascimento](https://img.shields.io/badge/-Danilo Nascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-jos%C3%A9-nascimento-da-silva-059744139)](https://www.linkedin.com/in/danilo-jos%C3%A9-nascimento-da-silva-059744139)
 [![Gmail Badge](https://img.shields.io/badge/-dan.silva.13.zx@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:dan.silva.13.zx@gmail.com)
 [![DaniloJNS]( https://img.shields.io/github/followers/DaniloJNS?label=follow&style=social)](https://github.com/DaniloJNS)
