@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Engenharia da Computação** na <a href="https://www.ufs.br/">UFS</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **.NET CORE**.
+- 🌱 &nbsp; Aprendendo mais sobre **RUBY ON RAILS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
